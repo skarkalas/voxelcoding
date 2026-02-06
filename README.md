@@ -1,7 +1,7 @@
-# Minecraft Coding
+# Voxel Coding
 
-**Minecraft Coding** is a learning environment designed to help people develop computational and spatial thinking.
+**Voxel Coding** is a learning environment designed to help learners develop computational and spatial thinking.
 
-Learners are given the option to play `Minecraft` using `Blockly` to build their environment.
+Learners explore a dynamically generated `3D voxel-based` world and use `Blockly` to build structures and automate tasks through visual programming.
 
-`Minecraft` is used as a creative playground for learners that want to experiment with automations and geometry in an exploratory 3D space.
+`Voxel Coding` serves as a creative playground where users can experiment with logic, geometry, and automation in an exploratory virtual space.
